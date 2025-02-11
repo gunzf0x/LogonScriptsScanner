@@ -42,3 +42,9 @@ For example:
 ![Example 1](images/LogonScriptsScanner_1.png)
 
 ![Example 2](images/LogonScriptsScanner_2.png)
+
+
+---
+
+## Disclaimer
+Use this tool for ethical purposes only (:
