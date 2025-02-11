@@ -39,6 +39,6 @@ For example:
 ❯ ./LogonScriptScanner.sh julio 'SecurePassJul!08' inlanefreight.local 10.129.71.7
 ```
 
-![Example 1](images/LogonScriptScanner_1.png)
+![Example 1](images/LogonScriptsScanner_1.png)
 
-![Example 2](images/LogonScriptScanner_2.png)
+![Example 2](images/LogonScriptsScanner_2.png)
