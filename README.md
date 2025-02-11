@@ -1,6 +1,6 @@
 # LogonScriptsScanner
 
-A simple tool to analyze `NETLOGON` share and check if it can be abused move laterally on Windows machines.
+A simple tool to analyze `NETLOGON` share and check if it can be abused to move laterally on Windows machines.
 
 ---
 
