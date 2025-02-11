@@ -38,3 +38,7 @@ For example:
 ```shell-session
 ❯ ./LogonScriptScanner.sh julio 'SecurePassJul!08' inlanefreight.local 10.129.71.7
 ```
+
+![Example 1](images/LogonScriptScanner_1.png)
+
+![Example 2](images/LogonScriptScanner_2.png)
