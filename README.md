@@ -16,6 +16,8 @@ A simple tool to analyze `NETLOGON` share and check if it can be abused to move 
 To install `bloodyAD` just execute in a terminal:
 
 ```shell-session
+❯ sudo apt update -y
+❯ sudo apt-get install libkrb5-dev -y
 ❯ pip3 install bloodyAD
 ```
 or, under your own risk,

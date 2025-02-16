@@ -122,7 +122,7 @@ check_if_needed_binaries_are_installed (){
     # Check if 'bloodyAD' is installed
     if ! command -v bloodyAD &> /dev/null; then
         echo -e "${WARNING} ${RED}Error: ${YELLOW}bloodyAD${RED} is not installed or is not included in \$PATH variable.${NC}"
-        echo -e "    ${YELLOW}Try to install it with Python3 running ${BGREEN}pip3 install bloodyAD${YELLOW} or ${BGREEN}pip3 install bloodyAD --break-system-packages${YELLOW} ${BRED}(this last command under your own risk)${YELLOW} and retry"
+        echo -e "    ${YELLOW}Try to install it with Python3 running ${BGREEN}sudo apt update -y && sudo apt-get install libkrb5-dev -y && pip3 install bloodyAD${YELLOW} or ${BGREEN}pip3 install bloodyAD --break-system-packages${YELLOW} ${BRED}(this last command under your own risk)${YELLOW} and retry"
         exit 1
     fi
 }
